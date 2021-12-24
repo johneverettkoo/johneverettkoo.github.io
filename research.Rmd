@@ -2,3 +2,6 @@
 title: 'Research'
 ---
 
+## Preprints
+
+J. Koo and M. Tang and M. W. Trosset. Popularity Adjusted Block Models are Generalized Random Dot Product Graphs. Submitted for publication. arXiv preprint available at https://arxiv.org/abs/2109.04010.
