@@ -1,0 +1,10 @@
+---
+title: 'Blog'
+---
+
+### Some Thoughts on R Packages and Namespaces
+
+2016-09-16
+
+Package management in R is a fairly straightforward process. The `library` function simply loads all the functions (and other objects, such as datadsets) from that package to the environment ... 
+[Continue reading](namespaces-demo.html)
