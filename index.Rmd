@@ -1,7 +1,3 @@
----
-title: "John Koo"
----
-
 I am a PhD candidate in the Department of Statistics at Indiana University. 
 My advisors are [Michael Trosset](https://mtrosset.pages.iu.edu/) and [Minh Tang](https://minh-tang.github.io/). 
 
