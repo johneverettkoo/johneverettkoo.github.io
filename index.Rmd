@@ -1,6 +1,8 @@
 I am a Visiting Assistant Professor in the Department of Statistics at Indiana University. 
 
 I received a PhD in Statistical Science from Indiana University, where I was advised by [Michael Trosset](https://mtrosset.pages.iu.edu/) and [Minh Tang](https://minh-tang.github.io/). 
+My dissertation research was on generalized random dot product graphs with community structure. 
+I also received a MS in Mathematics from Tarleton State University and dual BAs in Mathematics and Physics from New York University. 
 
 My research involves statistical inference on graphs and networks, particularly in the context of clustering and community detection.
 
