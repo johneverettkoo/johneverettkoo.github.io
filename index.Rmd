@@ -1,5 +1,6 @@
-I am a PhD candidate in the Department of Statistics at Indiana University. 
-My advisors are [Michael Trosset](https://mtrosset.pages.iu.edu/) and [Minh Tang](https://minh-tang.github.io/). 
+I am a Visiting Assistant Professor in the Department of Statistics at Indiana University. 
+
+I received a PhD in Statistical Science from Indiana University, where I was advised by [Michael Trosset](https://mtrosset.pages.iu.edu/) and [Minh Tang](https://minh-tang.github.io/). 
 
 My research involves statistical inference on graphs and networks, particularly in the context of clustering and community detection.
 
